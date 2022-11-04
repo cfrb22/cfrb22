@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Blog](https://img.shields.io/website?label=wzherisson.com&style=for-the-badge&url=https://https://herissonwz.github.io/hz//)](https://herissonwz.github.io/hz/)
+[![Blog](https://img.shields.io/website?label=cfrb22.com&style=for-the-badge&url=https://https://cfrb22.github.io/hz//)](https://cfrb22.github.io/hz/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 
-![herissonwz GitHub stats](https://github-readme-stats.vercel.app/api?username=herissonwz&show_icons=true&theme=dracula&count_private=true)
+![cfrb22 GitHub stats](https://github-readme-stats.vercel.app/api?username=cfrb22&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
