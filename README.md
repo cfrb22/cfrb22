@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 
-![cfrb22 GitHub stats](https://github-readme-stats.vercel.app/api?username=cfrb22&show_icons=true&theme=dracula&count_private=true)
+<div align="center">
+  <a href="https://github.com/cfrb22">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cfrb22&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfrb22&layout=compact&langs_count=7&theme=maroongold"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -32,4 +36,4 @@ Here are some ideas to get you started:
  
 </div><br/>
 
-![snake gif](https://github.com/herissonwz/herissonwz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cfrb22/cfrb22/blob/output/github-contribution-grid-snake.svg)
